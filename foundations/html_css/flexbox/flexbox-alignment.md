@@ -95,3 +95,10 @@ This section contains helpful links to related content. It isn’t required, so 
 * [Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA) is a nice resource by Traversy Media.
 * [Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU) by Kevin Powell explains flexbox very well in this video.
 * [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) An interactive guide to using the CSS Flexbox layout module.
+
+
+
+
+Notes on how you should provide assignments (more spoecifically 05-flex-modal)
+
+If you are going to test someone on modal box organization, there better be a lesson on how to do it. Giving general ideas about how to move things around then saying "we want to make this harder", but we never having any examples to  practice nesting is an error in itself. Spending two days on an exercise that should have taken me about 10 minutes is ridiculous. It would mean you did not provide nor have us practice the exact examples you are asking us to solve. I am learning how to do this, I'm not some retired pro that just knows, "oh nest this and then my life would be easier" Teaching someone from scratch means explainging everything and actually having practices that will be used later to test whether we know it. Then at that point you can "make things  a bit difficult". Literally wanted to stop learning with this program based soleyly on this flexbox lesson assignmenrt
